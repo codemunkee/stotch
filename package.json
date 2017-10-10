@@ -1,0 +1,23 @@
+{
+  "name": "stotch",
+  "version": "1.0.0",
+  "description": "Command-line tool to watch stock prices",
+  "main": "stotch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codemunkee/stotch.git"
+  },
+  "keywords": [
+    "stock",
+    "watch"
+  ],
+  "author": "Russ Nealis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codemunkee/stotch/issues"
+  },
+  "homepage": "https://github.com/codemunkee/stotch#readme"
+}
